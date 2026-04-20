@@ -9,7 +9,7 @@ description = "Adversarial SOC triage agent for Splunk, exposed as an MCP server
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Your Name" }]
+authors = [{ name = "d1screet" }]
 keywords = ["mcp", "claude", "splunk", "soc", "siem", "triage", "security"]
 classifiers = [
     "Development Status :: 3 - Alpha",
