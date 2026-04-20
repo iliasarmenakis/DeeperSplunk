@@ -24,5 +24,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Smoke test (`tests/smoke_test.py`) exercising the full workflow in mock mode.
 - GitHub repo furniture: CI on Python 3.10/3.11/3.12, Dependabot, issue and PR templates, `CONTRIBUTING.md`, `SECURITY.md`.
 
-[Unreleased]: https://github.com/your-org/DeeperSplunk/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/your-org/DeeperSplunk/releases/tag/v0.1.0
+[Unreleased]: https://github.com/iliasarmenakis/DeeperSplunk/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/iliasarmenakis/DeeperSplunk/releases/tag/v0.1.0
