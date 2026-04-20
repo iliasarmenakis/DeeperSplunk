@@ -88,7 +88,7 @@ Everything runs locally. SQLite memory lives at `~/.deepersplunk/memory.sqlite3`
 No Splunk instance required. Two fixture alerts ship with the project.
 
 ```bash
-git clone https://github.com/your-org/DeeperSplunk.git
+git clone https://github.com/iliasarmenakis/DeeperSplunk.git
 cd DeeperSplunk
 pip install -e .
 python tests/smoke_test.py      # confirms your install works
