@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "DeeperSplunk": {
+      "command": "python",
+      "args": ["-m", "deepersplunk"],
+      "env": {
+        "DEEPERSPLUNK_MOCK_MODE": "false",
+        "SPLUNK_HOST": "splunk.internal.example",
+        "SPLUNK_PORT": "8089",
+        "SPLUNK_SCHEME": "https",
+        "SPLUNK_APP": "SA-EndpointProtection",
+        "SPLUNK_VERIFY_SSL": "true",
+        "SPLUNK_TOKEN": "<paste-splunk-auth-token-here>",
+        "DEEPERSPLUNK_SEARCH_LIMIT": "100",
+        "DEEPERSPLUNK_LOG_LEVEL": "INFO"
+      }
+    }
+  }
+}
