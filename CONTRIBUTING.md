@@ -5,7 +5,7 @@ Thanks for your interest. This document covers how to propose changes, the codin
 ## Getting set up
 
 ```bash
-git clone https://github.com/your-org/DeeperSplunk.git
+git clone https://github.com/iliasarmenakis/DeeperSplunk.git
 cd DeeperSplunk
 pip install -e ".[dev]"
 python tests/smoke_test.py
